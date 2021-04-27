@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+nav{
+    height: 10vh;
+}
+main section {
+    width: 100%;
+    height: 100vh;
+}
+#shoes-blue{
+    background-color: red;
+}
+#shoes-white{
+    background-color: green;
+}
+#shoes-green{
+    background-color: yellow;
+}
